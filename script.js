@@ -52,7 +52,7 @@ new Vue({
         {
           name: "En chantant",
           artist: "Michel Sardou",
-          cover: "./Image/IMG_0792.jpg",
+          cover: "https://github.com/epdevdotcom/guylaine65/blob/main/Image/IMG_0784.jpg",
           source: "./Musique/",
           url: "https://www.youtube.com/",
           favorited: false
